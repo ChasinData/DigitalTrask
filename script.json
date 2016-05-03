@@ -1,6 +1,6 @@
 {
   "BOT": "Hi there!\nI’m the personal bot of Steve Trask, a data guy in the caital region.\n![steve](https://pbs.twimg.com/profile_images/1865444066/Profile.jpg)\nWant to know more about bots or learn about Trask? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Steve](postback:learn_about_steve) %[One random fact!](postback:random_fact)",
-  "HELLO": "Hey, I'm so glad you swanted to chat with me! Do you want to tell Trask that you're talking to his bot? %[Tell TRASK](postback:twitter)",
+  "HELLO": "Hey, I'm so glad you wanted to chat with me! Do you want to tell Trask that you're talking to his bot? %[Tell TRASK](postback:twitter)",
   "TELL TRASK": "Let's tweet to Steve so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Trask](http://ctt.ec/cbfLD)",
   "I LOVE YOU": "Awh, shucks! I love you too!",
   "CONNECT ME": "",
