@@ -14,5 +14,6 @@
   "NO": "Okay then, you should email him. %[Email Him](mailto:sxt@stevetrask.com?subject=Bot%20Question)",
   "I LOVE YOU": "Awh, shucks! I love you too!",
   "CONNECT ME": "",
-  "DISCONNECT": "Roger that, Trask is back."
+  "DISCONNECT": "Roger that, Trask is back.",
+  "HELP": "Just start by typing HI."
 }
