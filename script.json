@@ -2,12 +2,19 @@
   "BOT": "Hi there!\nI’m the personal bot of Steve Trask, a data guy in the capital region.\nWant to know more about learn about Trask? %[Learn about Steve](postback:learn_about_steve)",
   "HI": "Hi there!\nI’m the personal bot of Steve Trask, a data guy in the capital region.\nWant to know more about learn about Trask? %[Learn about Steve](postback:learn_about_steve)",
   "PICTURE": "This is what Steve looks like. \n![steve](https://pbs.twimg.com/profile_images/1865444066/Profile.jpg)",
+  "WHAT DOES HE LOOK LIKE": "This is what Steve looks like. \n![steve](https://pbs.twimg.com/profile_images/1865444066/Profile.jpg)",
+  "WHAT DOES HE LOOK LIKE?": "This is what Steve looks like. \n![steve](https://pbs.twimg.com/profile_images/1865444066/Profile.jpg)",
+  "LOOK LIKE": "This is what Steve looks like. \n![steve](https://pbs.twimg.com/profile_images/1865444066/Profile.jpg)",
   "TELL TRASK": "Let's tweet to Steve so he knows we are chatting. Here's a tweet that's ready to go: %[Tweet Trask](http://ctt.ec/cbfLD)",
+  "TWEET HIM": "Let's tweet to Steve so he knows we are chatting. Here's a tweet that's ready to go: %[Tweet Trask](http://ctt.ec/cbfLD)",
   "TRASK": "Let's tweet to Steve so he knows we are chatting. Here's a tweet that's ready to go: %[Tweet Trask](http://ctt.ec/cbfLD)",
   "TWEET": "Let's tweet to Steve so he knows we are chatting. Here's a tweet that's ready to go: %[Tweet Trask](http://ctt.ec/cbfLD)",
   "TWITTER": "Let's tweet to Steve so he knows we are chatting. Here's a tweet that's ready to go: %[Tweet Trask](http://ctt.ec/cbfLD)",
   "RANDOMFACT2": "Steve was a medic druring Desert Storm with the US Air Force.",
+  "TELL ME A RANDOM FACT": "Steve was a medic druring Desert Storm with the US Air Force.",
   "RANDOM FACT": "Steve was a medic druring Desert Storm with the US Air Force.",
+  "TELL ME RANDOM FACT": "Steve was a medic druring Desert Storm with the US Air Force.",
+  "TELL ME A FACT": "Steve was a medic druring Desert Storm with the US Air Force.",
   "LEARN ABOUT STEVE": "Steve is a difference-maker that loves to tinker and use his ingenuity. \nSteve is the innovator behind today's modern methodologies that quantify emotional engagement. \nHe has been interviewed by Guy Kawasaki and he has build some of the world's best Data Science teams.",
   "HEREBOT2": "Well than, you should really talk with Steve directly.\nConnect or Message him va LinkedIn.%[Here it is](https://www.linkedin.com/in/stephentrask)",
   "FACT": "Steve was a medic druring Desert Storm with the US Air Force.",
@@ -49,5 +56,5 @@
   "HOW ARE YOU": "Great, I guess. I'm just a bot you know...",
   "CONNECT ME": "",
   "DISCONNECT": "Roger that, Trask is back.",
-  "HELP": "Just start by typing HI.\nOr try to find some easter eggs he planted."
+  "HELP": "Just start by typing HI.\nOr try to find some easter eggs he planted.\nHints to consider:\nTweet him\nWhat does he look like?\nTell me a oandom fact."
 }
