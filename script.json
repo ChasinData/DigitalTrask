@@ -1,5 +1,5 @@
 {
-  "BOT": "Hi there!\nI’m the personal bot of Steve Trask, a data guy in the capital region.\nWant to know more about bots or learn about Trask? %[I'm here for the bot](postback:HEREBOT2) %[Learn about Steve](postback:learn_about_steve) %[One random fact](postback:RANDOMFACT2)",
+  "BOT": "Hi there!\nI’m the personal bot of Steve Trask, a data guy in the capital region.\nWant to know more about bots or learn about Trask? %[I'm here for the bot](postback:NOPE) %[Learn about Steve](postback:learn_about_steve) %[One random fact](postback:RANDOMFACT2)",
   "HI": "Hi there!\nI’m the personal bot of Steve Trask, a data guy in the capital region.\nWant to know more about bots or learn about Trask? %[I'm here for the bot](postback:HEREBOT2) %[Learn about Steve](postback:learn_about_steve) %[One random fact](postback:RANDOMFACT2)",
   "PICTURE": "This is what Steve looks like. \n![steve](https://pbs.twimg.com/profile_images/1865444066/Profile.jpg)",
   "TELL TRASK": "Let's tweet to Steve so he knows we are chatting. Here's a tweet that's ready to go: %[Tweet Trask](http://ctt.ec/cbfLD)",
