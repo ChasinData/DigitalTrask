@@ -12,7 +12,8 @@
   "LEARN": "You should email him. %[Email Him](mailto:sxt@stevetrask.com?subject=Bot%20Question)",
   "NO": "Okay, but I am programmed with only a few options (and a few easter eggs).\nWant to know more about bots or learn about Trask? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Steve](postback:learn_about_steve) %[One random fact!](postback:random_fact)",
   "I LOVE YOU": "Awh, shucks! I love you too!",
+  "LINKEDIN": "Do, you want my LinkedIn account? %[Here it is](https://www.linkedin.com/in/stephentrask) %[More](postback:more)",
   "CONNECT ME": "",
   "DISCONNECT": "Roger that, Trask is back.",
-  "HELP": "Just start by typing HI."
+  "HELP": "Just start by typing HI.\nOr try to find some easter eggs he planted."
 }
